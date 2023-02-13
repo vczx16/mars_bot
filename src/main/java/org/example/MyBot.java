@@ -111,7 +111,7 @@ public class MyBot extends TelegramLongPollingBot {
 
 
                     final String USER = "root";
-                    final String PASS = "legend4008823823";
+                    final String PASS = "";
 
 
 
